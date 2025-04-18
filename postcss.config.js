@@ -1,6 +1,6 @@
 module.exports = {
   plugins: {
-    tailwindcss: {},
+    tailwindcss: {},  // ✅ required for Tailwind v3
     autoprefixer: {},
   },
 }
